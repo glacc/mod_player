@@ -1,0 +1,14 @@
+EXPORTS
+    IsPlaying @1
+    MPGetExcuteTime @2
+    MPGetPos @3
+    MPGetSongName @4
+    MPLoadModule @5
+    MPPlayModule @6
+    MPPlayPause @7
+    MPResetModule @8
+    MPSetInterpolation @9
+    MPSetPos @10
+    MPSetSeparation @11
+    MPSetVolume @12
+    MPStopModule @13

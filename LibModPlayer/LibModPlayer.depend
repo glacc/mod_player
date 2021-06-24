@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1586417615 source:d:\cppproj\modplaydll\libmodplayer\modplayrev2.cpp
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<stdint.h>
+	<malloc.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1587302863 source:d:\cppproj\modplaydll\libmodplayer\modplayrev2_dll.cpp
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<stdint.h>
+	<malloc.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+

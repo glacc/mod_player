@@ -1,0 +1,10 @@
+D:\VSProj\ModPlayer\Mod Playrt\obj\Debug\Mod_Player.Form1.resources
+D:\VSProj\ModPlayer\Mod Playrt\obj\Debug\Mod Player.csproj.GenerateResource.cache
+D:\VSProj\ModPlayer\Mod Playrt\obj\Debug\Mod Player.csproj.CoreCompileInputs.cache
+D:\VSProj\ModPlayer\Mod Playrt\bin\Debug\Mod Player.exe.config
+D:\VSProj\ModPlayer\Mod Playrt\bin\Debug\Mod Player.exe
+D:\VSProj\ModPlayer\Mod Playrt\bin\Debug\Mod Player.pdb
+D:\VSProj\ModPlayer\Mod Playrt\obj\Debug\Mod_Player.Properties.Resources.resources
+D:\VSProj\ModPlayer\Mod Playrt\obj\Debug\Mod Player.exe
+D:\VSProj\ModPlayer\Mod Playrt\obj\Debug\Mod Player.pdb
+D:\VSProj\ModPlayer\Mod Playrt\obj\Debug\Mod Player.csprojAssemblyReference.cache
